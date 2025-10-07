@@ -1,0 +1,6 @@
+vigenersl.combat.timer=§l§cVous êtes en combat: §e
+vigenersl.combat.wait=s
+vigenersl.combat.ended.chat=§l§7[§cCombat§7] §aCombat terminé
+vigenersl.combat.ended.bar=§l§aCombat terminé
+vigenersl.combat.relog.killed=§l§cVous avez été tué pour vous être déconnecté pendant un combat.
+vigenersl.combat.cooldowns=§l§7[§cRecharge§7] §cVeuillez patienter §e

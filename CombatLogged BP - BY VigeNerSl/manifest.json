@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§bCOMBAT LOG v1.2 §cBY VigeNerSl",
+    "description": "§lThe add-on will add a combat log to your server.",
+    "uuid": "a7a7953b-4ae1-4ac8-a21b-3d4042b1db59",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "610e242d-dd4a-4ad8-87cc-ab36b18389d2",
+      "version": [1,0,0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/VigeNerSl/HELLO/main.js",
+      "uuid": "adb4b452-882a-4811-8d03-40fc415faa19",
+      "version": [1,0,0]
+    }
+  ],
+  "capabilities": ["script_eval"],
+  "dependencies": [
+    {
+      "uuid": "571b1570-3fbf-4714-8df9-c2986e35b5b1",
+      "version": [1,0,0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.11.0"
+    }
+  ],
+  "metadata": {
+    "authors": ["@VigeNerSl"],
+    "license": "CC BY-NC-SA 4.0",
+    "url": "https://github.com/VigeNerSl"
+  }
+}

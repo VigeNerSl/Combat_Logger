@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§l§dResource Pack For addon combat log §cby VigeNerSl",
+    "description": "§l§dResource Pack For addon combat log §cby VigeNerSl",
+    "uuid": "571b1570-3fbf-4714-8df9-c2986e35b5b1",
+    "version": [1,0,0],
+    "min_engine_version": [1,21,0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b32adfc9-796b-4d50-ba9c-18611094bc00",
+      "version": [1,0,0],
+      "description": "Resource Pack For addon combat log by VigeNerSl"
+    }
+  ]
+}

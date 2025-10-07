@@ -1,0 +1,6 @@
+vigenersl.combat.timer=§l§c戦闘中です: §e
+vigenersl.combat.wait=秒
+vigenersl.combat.ended.chat=§l§7[§c戦闘§7] §a戦闘終了
+vigenersl.combat.ended.bar=§l§a戦闘終了
+vigenersl.combat.relog.killed=§l§c戦闘中にログアウトしたため倒されました。
+vigenersl.combat.cooldowns=§l§7[§cクールダウン§7] §cお待ちください §e

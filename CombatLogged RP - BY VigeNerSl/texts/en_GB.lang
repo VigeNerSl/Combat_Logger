@@ -1,0 +1,6 @@
+vigenersl.combat.timer=§l§cYou are in combat: §e
+vigenersl.combat.wait=sec.
+vigenersl.combat.ended.chat=§l§7[§cCombat§7] §aCombat ended
+vigenersl.combat.ended.bar=§l§aCombat ended
+vigenersl.combat.relog.killed=§l§cYou were killed for logging out during combat.
+vigenersl.combat.cooldowns=§l§7[§cCooldown§7] §cPlease wait §e
