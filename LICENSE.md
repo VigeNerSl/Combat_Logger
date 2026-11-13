@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-Copyright © 2025 VigeNerSl
+Copyright © 2026 VigeNerSl
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format.

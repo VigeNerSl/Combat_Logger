@@ -1,0 +1,46 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§l§b[ ⚔ ] §cCombat Logger §7by VigeNerSl",
+		"description": "§eНаказывает за выход из игры во время боя. Тег боя, кулдауны предметов, запреты и лог.",
+		"uuid": "a7a7953b-4ae1-4ac8-a21b-3d4042b1db59",
+		"version": [ 2, 0, 9 ],
+		"min_engine_version": [ 1, 26, 50 ]
+	},
+	"modules": [
+		{
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/main.js",
+			"uuid": "adb4b452-882a-4811-8d03-40fc415faa19",
+			"version": "2.0.9"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "571b1570-3fbf-4714-8df9-c2986e35b5b1",
+			"version": [ 2, 0, 9 ]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.10.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.2.0"
+		}
+	],
+	"metadata": {
+		"authors": [ "VigeNerSl" ],
+		"url": "https://t.me/vigenersl, https://github.com/VigeNerSl",
+		"license": "CC BY-NC-SA 4.0",
+		"license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+		"code": "open-source"
+	},
+	"settings": [
+		{
+			"type": "label",
+			"text": "§eAuthor: VigeNerSl\n§7GitHub: github.com/VigeNerSl\n§7Telegram: t.me/VigeNerSl\n\n§fCopyright © 2025-2026 VigeNerSl\n\n§aLicense: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International\n§7(CC BY-NC-SA 4.0)\n\n§fYou are free to:\n§7- Share — copy and redistribute the material\n§7- Adapt — remix, transform, and build upon the material\n\n§fUnder the following terms:\n§7- Attribution (BY): Credit must state \"Created by VigeNerSl\"\n§7- NonCommercial (NC): No commercial use\n§7- ShareAlike (SA): Same license required\n\n§9Full license:\n§7https://creativecommons.org/licenses/by-nc-sa/4.0/"
+		}
+	]
+}
